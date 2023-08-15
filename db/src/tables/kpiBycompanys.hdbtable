@@ -1,4 +1,4 @@
-COLUMN TABLE "chat4analytics.tables::KPI_BY_COMPANIES" (
+COLUMN TABLE "chatgpt4analytics.tables::KPI_BY_COMPANIES" (
     "COMPANY" NVARCHAR(200),
     "COMPANY_ID" NVARCHAR(20),
     "FISCAL_YEAR" INTEGER,
